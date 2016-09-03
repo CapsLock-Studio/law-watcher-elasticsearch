@@ -33,6 +33,19 @@
                     "null_value": "na"
                 }
             }
+        },
+        "message": {
+            "properties": {
+                "fbId": {
+                    "type": "integer",
+                    "null_value": "na"
+                },
+                "content": {
+                    "type": "string",
+                    "analyzer": "cjk",
+                    "null_value": "na"
+                }
+            }
         }
     }
 }
