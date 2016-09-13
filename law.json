@@ -37,8 +37,7 @@
         "message": {
             "properties": {
                 "fbId": {
-                    "type": "integer",
-                    "null_value": "na"
+                    "type": "integer"
                 },
                 "content": {
                     "type": "string",
